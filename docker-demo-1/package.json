@@ -1,0 +1,14 @@
+{
+  "name": "docker-demo-1",
+  "version": "1.0.0",
+  "description": "Getting started with Docker learning",
+  "main": "app.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Debaprasad Sahoo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}

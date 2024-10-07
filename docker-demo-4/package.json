@@ -1,0 +1,19 @@
+{
+  "name": "data-volume-example",
+  "version": "1.0.0",
+  "description": "The project is a docker demo or an example on data volume in containers",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "Debaprasad Sahoo",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.3",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "2.0.4"
+  }
+}
